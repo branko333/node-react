@@ -1,1 +1,1 @@
-# node-react tools and tutorials
+# node.js and react.js tools and tutorials
